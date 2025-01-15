@@ -5,6 +5,7 @@
 .settings/
 
 # Maven
+bin/
 target/
 logs/
 *.iml
